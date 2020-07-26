@@ -5,4 +5,4 @@ Tutorial de interfaces gráficas con Tkinter hecho por YirsisHertz.
 <hr>
 <br>
 
-![miniatura](logo.jpg?raw=true "Tutorial Gratuito")
+[![miniatura](logo.jpg?raw=true "Tutorial Gratuito")](https://www.youtube.com/watch?v=UKi73H50ZQY)
